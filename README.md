@@ -1,2 +1,2 @@
 # Tugas PKL
-# server (express, redis, sequelize, mysql, crud, mocha, chai, auth)
+# server (express, redis, sequelize mysql, crud, mocha, chai, auth)
